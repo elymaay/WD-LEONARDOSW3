@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://i.pinimg.com/736x/50/f6/f9/50f6f9f4d52931c70c5c91e20416785c.jpg');
+    background-size: cover;
+    }
+    .container {
+    text-align: center;
+    }
+    .buttons {
+    margin-top: 20px;
+    }
+    .btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #ff85a2;
+    color: white;
+    border-radius: 5px;
+    }
+    .btn:hover {
+    background-color: #9034c2;
+    }
+
+    & .kirby {
+    width: 100%;
+    object-fit: cover;
+    transition: all 0.5s ease;
+    }
