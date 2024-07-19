@@ -60,17 +60,17 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - Showcasing different designs of headers and footers
+- Whats the purpose - To show the different designs of headers and footers
+- What are key components - Static and Animated Headers and Footers
+- What technology used and how it is used - HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Static Headers and Footers
+- Animated Headers and Footers
 
 ### Technology
 <!-- TODO: List of Technology Used -->
