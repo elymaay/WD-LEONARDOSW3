@@ -1,3 +1,4 @@
+/* General reset */
 * {
     margin: 0;
     padding: 0;
@@ -53,6 +54,10 @@ footer {
     font-weight: bold;
 }
 
+.footer-nav ul li.no-hover a:hover {
+    color: inherit; /* No color change on hover */
+}
+
 .footer-nav ul li a:hover {
     color: #007BFF;
 }
@@ -72,6 +77,10 @@ footer {
 
 .footer-section ul li {
     margin-bottom: 10px;
+}
+
+.footer-section ul li.no-hover a:hover {
+    color: inherit; /* No color change on hover */
 }
 
 .footer-section ul li a {
