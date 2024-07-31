@@ -9,7 +9,7 @@
     <img src="https://scontent.fmnl33-6.fna.fbcdn.net/v/t1.15752-9/449697975_1477336089839476_4972942663370974651_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGyXUOd6pfmqQOGdSB7fpPAkuSsqqt38JKS5Kyqq3fwkgMTWocMbaftSPu2u_qbTO-QsYtyQId22wSrQWxcLCx8&_nc_ohc=s7yEMRGWkiQQ7kNvgFqmoi3&_nc_ht=scontent.fmnl33-6.fna&oh=03_Q7cD1QEBU19KQkBSigGAew0v-ywYdmRSJqARjPBPTAs7aKx5TQ&oe=66C13370" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">HEADERS AND FOOTERS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
